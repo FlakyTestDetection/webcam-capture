@@ -10,7 +10,7 @@ branches:
   except:
   - gh-pages
 jdk:
-- openjdk7
+- openjdk8
 language: java
 notifications:
   email: false
