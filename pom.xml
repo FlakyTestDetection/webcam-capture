@@ -10,7 +10,7 @@
   </parent>
 
   <artifactId>webcam-capture-parent</artifactId>
-  <version>0.3.12-SNAPSHOT</version>
+  <version>0.3.13-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Webcam Capture Parent POM</name>
@@ -141,7 +141,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore></ignore>
+                    <ignore />
                   </action>
                 </pluginExecution>
               </pluginExecutions>
